@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/energy-comparison-charts/static/css/main.cde2dbb9.css",
+    "main.js": "/energy-comparison-charts/static/js/main.da7dde0e.js",
+    "static/js/453.065c48f9.chunk.js": "/energy-comparison-charts/static/js/453.065c48f9.chunk.js",
+    "index.html": "/energy-comparison-charts/index.html",
+    "main.cde2dbb9.css.map": "/energy-comparison-charts/static/css/main.cde2dbb9.css.map",
+    "main.da7dde0e.js.map": "/energy-comparison-charts/static/js/main.da7dde0e.js.map",
+    "453.065c48f9.chunk.js.map": "/energy-comparison-charts/static/js/453.065c48f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde2dbb9.css",
+    "static/js/main.da7dde0e.js"
+  ]
+}
