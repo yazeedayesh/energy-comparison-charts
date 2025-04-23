@@ -16,8 +16,7 @@ import {
 const EnergyCharts = () => {
   return (
     <div className="flex flex-col gap-8 p-4">
-      <h1 className="text-2xl font-bold text-center">From Yazeed To Michaela</h1>
-      <h1 className="text-2xl font-bold text-center">European Energy Market Analysis</h1>
+      <h1 className="text-2xl font-bold text-center">European Energy Market Analysis From Yazeed To Michaela</h1>
       
       <div className="border rounded p-4 shadow">
         <h2 className="text-xl font-semibold mb-4">Electricity Prices for Households (EUR per kWh, 2023)</h2>
