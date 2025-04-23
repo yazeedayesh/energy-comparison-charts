@@ -16,6 +16,7 @@ import {
 const EnergyCharts = () => {
   return (
     <div className="flex flex-col gap-8 p-4">
+      <h1 className="text-2xl font-bold text-center">From Yazeed To Michaela</h1>
       <h1 className="text-2xl font-bold text-center">European Energy Market Analysis</h1>
       
       <div className="border rounded p-4 shadow">
